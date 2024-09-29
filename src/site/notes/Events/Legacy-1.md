@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/legacy-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/events/legacy-1/"}
 ---
 
 
