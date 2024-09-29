@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/terms/labyrinthian-conquest-era/"}
 ---
 
+Labyrinthian Conquest Era is the year notation for the Gregorian calendar.
 
-[[Terms/Pre-Labyrinthian Era\|Pre-Labyrinthian Era]]
-[[Events/The Growth Incident\|The Growth Incident]]
+### History
+
+Labyrinthian Conquest Era is the current era. The idea of numbering years beginning from the date that was believed to be the date of death of [[Significant Figures/Gideon Payne\|Gideon Payne]].
+
 #term 
