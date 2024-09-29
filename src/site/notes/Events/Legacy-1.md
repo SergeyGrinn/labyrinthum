@@ -32,7 +32,7 @@ The circumstances surrounding their demise precipitated an immediate global inve
 
 Accompanying the astronauts was a cryptic artifact known as the Cube. This anomalous object, retrieved from the Martian surface during their exploration, exhibited peculiar energetic properties and appeared to resonate with an unknown frequency. Following the crew's tragic return, scientists commenced extensive analyses of the Cube, hypothesizing that it might hold critical insights into the events leading to the crew's demise.
 
-Upon its activation, the Cube instigated a catastrophic event, resulting in the emergence of the Labyrinthum, a colossal extraterrestrial structure that began to ascend from the Earth’s crust. The Labyrinthum expanded rapidly, enveloping vast terrestrial regions and precipitating the loss of approximately 70% of the Earth's population within a mere seven days.
+Upon its activation, the Cube instigated a catastrophic event, resulting in the emergence of the Labyrinthum, a colossal extraterrestrial structure that began to ascend from the Earth’s crust. The Labyrinthum expanded rapidly, enveloping vast terrestrial regions and precipitating the loss of approximately 70% of the Earth's population within a mere seven days. This event soon became known as "[[Events/The Growth Incident\|The Growth Incident]]".
 
 #### Aftermath and Legacy
 
