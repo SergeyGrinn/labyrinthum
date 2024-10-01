@@ -4,19 +4,19 @@
 
 # Heart Engine
 
-The **Heart Engine** is a mystical organ integral to all inhabitants of the Labyrinthum, inherited at birth. It is the source of humanity's magical abilities, collectively known as the _Labyrinthian Legacy_. Over generations since the [[Events/The Growth Incident\|First Growth]], the Heart Engine has evolved, gradually replacing the original human heart and fundamentally altering human physiology and capabilities.
+The **Heart Engine** is a mystical organ integral to all inhabitants of the Labyrinthum, inherited at birth. It is the source of humanity's magical abilities, collectively known as the _[[Terms/Labyrinthian Legacy\|Labyrinthian Legacy]]_. Over generations since the [[Events/The Growth Incident\|First Growth]], the Heart Engine has evolved, gradually replacing the original human heart and fundamentally altering human physiology and capabilities.
 
 ## Structure and Function
 
 ### Biological Integration
 
-The Heart Engine is fully integrated into the physiology of every individual born within the Labyrinthum. Functioning seamlessly from birth, it replaces the original heart, taking over all circulatory duties. The Heart Engine enhances physical resilience, allowing individuals to endure greater physical stress and recover more rapidly from injuries. However, it does **not** extend the human lifespan.
+The Heart Engine is fully integrated into the physiology of every individual born within the [[Structures/Labyrinthum\|Labyrinthum]]. Functioning seamlessly from birth, it replaces the original heart, taking over all circulatory duties. The Heart Engine enhances physical resilience, allowing individuals to endure greater physical stress and recover more rapidly from injuries. However, it does **not** extend the human lifespan.
 
 The Heart Engine produces a unique, unidentified substance that circulates through the bloodstream. This substance acts as a conduit for magical energies, enabling individuals to develop and harness various magical abilities associated with the Labyrinthian Legacy.
 
 ### Biotechnological Functionality: Heart Code
 
-Advancements in bioengineering have led to the development of the **Heart Code**, a modification of the Heart Engine that allows users to bind small equipment or specialized suits on command. This bioengineering intervention connects the Heart Code with the Heart Engine, enabling seamless integration of technology and magic.
+Advancements in bioengineering have led to the development of the **[[Terms/Heart Code\|Heart Code]]**, a modification of the Heart Engine that allows users to bind small equipment or specialized suits on command. This bioengineering intervention connects the Heart Code with the Heart Engine, enabling seamless integration of technology and magic.
 
 - **Functionality**: The Heart Code interfaces with external devices or suits, allowing for instantaneous deployment and retraction controlled by the user's intent.
 - **Bioengineering Process**: Implementing the Heart Code requires a medical procedure where bioengineers modify the Heart Engine to establish a connection with the desired equipment.
@@ -111,8 +111,8 @@ Research into the origins of the Heart Engine focuses on its connection to the L
 
 ## See Also
 
-- **Labyrinthian Legacy**: The collective term for the magical abilities enabled by the Heart Engine.
-- **Labyrinthum**: The structure whose emergence led to the First Growth and subsequent events.
-- **First Growth**: The catastrophic event following the Labyrinthum's appearance.
-- **Withering Shock**: The paralysis phenomenon occurring upon the death of individuals with the Heart Engine.
+- **[[Terms/Labyrinthian Legacy\|Labyrinthian Legacy]]**: The collective term for the magical abilities enabled by the Heart Engine.
+- **[[Structures/Labyrinthum\|Labyrinthum]]**: The structure whose emergence led to the First Growth and subsequent events.
+- **[[Events/The Growth Incident\|First Growth]]**: The catastrophic event following the Labyrinthum's appearance.
+- **[[Terms/Withering Shock\|Withering Shock]]**: The paralysis phenomenon occurring upon the death of individuals with the Heart Engine.
 #term 
