@@ -4,17 +4,6 @@
 
 ***About the Labyrinth, its structure and behavior*** is an encyclopedic monograph by the pioneer, researcher, and explorer [[Significant Figures/Haidar Ingram\|Haidar Ingram]]. First published in 122 LC (Labyrinthian Conquest Era), the work surveys the Labyrinth’s physical organization and observed behaviors alongside high-level notes on its regions, geology, flora, and fauna. Without presenting a single narrative, the book functions as a field-derived reference intended for scholars, explorers, and administrators operating within or along the margins of the Labyrinthum.
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
 # Author
 
 Haidar Ingram (b. 66 LC) is known for his long, systematic exploration of the Labyrinth’s regions and boundaries. Raised in the city of Flodtorn, he attended Flodtorn’s University in his youth before departing on extended fieldwork. Ingram is widely cited for combining practical exploration with a careful, cataloging approach that avoided speculative claims.
