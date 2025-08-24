@@ -7,7 +7,7 @@
 
 ### Biography
 
-Haidar Ingram was born in 66 LC , in Lysehamn. Ingram was the son of a miner and a needlewoman , grew up along his brother Arvid.
+Haidar Ingram was born in 66 LC , in Lysehamn. Ingram was the son of a miner and a needlewoman , grew up along his older brother Arvid.
 
 Growing up in a world fragmented by these colossal structures, Ingram was exposed early on to the mysteries of the Labyrinthum, which would later fuel his lifelong research. He later attended the **University of Flodtorn**, where he honed his expertise in the field of Labyrinthian studies. It was in Flodtorn that Ingram published **"About the Labyrinth, its Structure and Behavior"**, which became the definitive text on the structure's vast influence.
 
