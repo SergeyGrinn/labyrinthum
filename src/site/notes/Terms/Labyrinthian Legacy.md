@@ -3,7 +3,7 @@
 ---
 
 <center><h1>Labyrinthian Legacy</h1></center>
-
+[[Legacy/Legacies\|Legacies]]
 
 
 
