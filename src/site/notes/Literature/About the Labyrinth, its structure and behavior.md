@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/literature/about-the-labyrinth-its-structure-and-behavior/"}
 ---
 
-***About the Labyrinth, its structure and behavior*** is an encyclopedic monograph by the pioneer, researcher, and explorer [[Significant Figures/Haidar Ingram\|Haidar Ingram]]. First published in 122 LC (Labyrinthian Conquest Era), the work surveys the Labyrinth’s physical organization and observed behaviors alongside high-level notes on its regions, geology, flora, and fauna. Without presenting a single narrative, the book functions as a field-derived reference intended for scholars, explorers, and administrators operating within or along the margins of the Labyrinthum.
+***About the Labyrinth, its structure and behavior*** is an encyclopedic monograph by the pioneer, researcher, and explorer [[Significant Figures/Haidar Ingram\|Haidar Ingram]]. First published in 122 LC (Labyrinthian Conquest Era), the work surveys the Labyrinth’s physical organization and observed behaviors alongside high-level notes on its regions, geology, flora, and fauna. Without presenting a single narrative, the book functions as a field-derived reference intended for scholars, explorers, and administrators operating within or along the margins of the [[Structures/Labyrinthum\|Labyrinthum]].
 
 # Author
 
