@@ -3,13 +3,13 @@
 ---
 
 
-**Haidar Ingram** (66 LC - 128 LC) is a prominent Labyrinthian researcher, scholar, physician and explorer, widely recognized for his pioneering studies on the Labyrinthum. Ingram's work has provided key insights into the [[Structures/Labyrinthum\|Labyrinthum]]'s properties and its profound impact on human society.
+**Haidar Ingram** (66 LC - 128 LC) is a prominent Labyrinthian researcher, scholar, physician and explorer, widely recognized for his pioneering studies on the Labyrinthum and publishment of "*[[Literature/About the Labyrinth, its structure and behavior\|About the Labyrinth, its structure and behavior]]*". Ingram's work has provided key insights into the Labyrinthum's properties and its profound impact on human society.
 
 ### Biography
 
 Haidar Ingram was born in 66 LC , in Lysehamn. Ingram was the son of a miner and a needlewoman , grew up along his brother Arvid.
 
-Growing up in a world fragmented by these colossal structures, Ingram was exposed early on to the mysteries of the Labyrinthum, which would later fuel his lifelong research. He later attended the **University of Flodtorn**, where he honed his expertise in the field of Labyrinthian studies. It was in Flodtorn that Ingram published *[[Literature/About the Labyrinth, its structure and behavior\|About the Labyrinth, its structure and behavior]]*, which became the definitive text on the structure's vast influence.
+Growing up in a world fragmented by these colossal structures, Ingram was exposed early on to the mysteries of the Labyrinthum, which would later fuel his lifelong research. He later attended the **University of Flodtorn**, where he honed his expertise in the field of Labyrinthian studies. It was in Flodtorn that Ingram published **"About the Labyrinth, its Structure and Behavior"**, which became the definitive text on the structure's vast influence.
 
 ### Career and Research
 
